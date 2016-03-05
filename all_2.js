@@ -1,0 +1,1 @@
+$('#navigation').animateCss('bounce');
